@@ -1,4 +1,11 @@
+* {
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
 .odd {
     background-color: rgb(255, 182, 193);
-    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
 }
